@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hendra Cahyono Data Science</h1>
+<h1 align="center">Hi 👋, I'm Hendra Cahyono</h1>
 <h3 align="center">Undergraduate 5th Semester Data Science Major</h3>
 
 - 💬 Contact me **hendracahyonoh@gmail.com**
